@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new sect of religion descryed, called Adamites deriving their religion from our father Adam : wherein they hold themselves to be blamelesse at the last day, though they sinne never so egregiously, for they challenge salvation as their due from the innocencie of their second Adam : this was first disclosed by a brother of the same sect to the author, who went along with this brother, and saw all these passages following / by Samoth Yarb.</title>
+            <author>Yarb, Samoth, fl. 1641.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29261</idno>
+            <idno type="STC">Wing B4295A</idno>
+            <idno type="STC">ESTC R25942</idno>
+            <idno type="EEBO-CITATION">09296504</idno>
+            <idno type="OCLC">ocm 09296504</idno>
+            <idno type="VID">42647</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new sect of religion descryed, called Adamites deriving their religion from our father Adam : wherein they hold themselves to be blamelesse at the last day, though they sinne never so egregiously, for they challenge salvation as their due from the innocencie of their second Adam : this was first disclosed by a brother of the same sect to the author, who went along with this brother, and saw all these passages following / by Samoth Yarb.</title>
+                  <author>Yarb, Samoth, fl. 1641.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Adamites.</term>
+               <term>Christian sects --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42647:1"/>
+            <p>A new Sect of Religon Deſcryed, called ADAMITES: Deriving their Religion from our Father <hi>Adam.</hi>
+            </p>
+            <p>Wherein they hold themſelves to be blameleſſe at the laſt day, though they ſinne never ſo egregiouſly, for they challenge Salvation, as their due, from the innocencie of their ſecond ADAM.</p>
+            <p>This was firſt diſcloſed by a Brother of the ſame Sect, to the Author, who went along with this Brother, and ſaw all theſe Paſſages following.</p>
+            <p>
+               <hi>By Samoth Yarb, Batchelor in Arts.</hi>
+            </p>
+            <figure>
+               <head>Downe Proud Flesh Downe</head>
+               <figDesc>in a grand hall, a naked man schools another naked man on rejecting the pleasures of the flesh, while a naked woman, book in hand and hair loose, looks on</figDesc>
+            </figure>
+            <p>Printed Anno 16<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:42647:2"/>
+            <pb n="3" facs="tcp:42647:2"/>
+            <head>A New Sect of Religion deſcryed, called Adamits, deriving their Religion from our Father <hi>Adam.</hi>
+            </head>
+            <p>I Know, <hi>Reader,</hi> thou canſt not be ignorant of the multitude of Sects, which are ſcattered here and there about this Kingdome, &amp; how they lye like neſts of <hi>Caterpillers,</hi> deſtroying our ſweet ſmelling garden roſes; this therfore is but as a <hi>poroemium</hi> to our enſuing diſcourſe; Let not their multitude, becauſe ſome are ſuppos'd to be untruths, any way diſanull of the verity of ours, for a <hi>brother</hi> of the ſame Sect, ſee<g ref="char:EOLhyphen"/>ing the folly which he heretofore had nouriſhed, for a truth hath related, what my unable quill hath ſtrove to write.</p>
+            <p>For J, the <hi>Author,</hi> walking in <hi>Moore-fields</hi> (as my cuſtome is to take the freſh Ayre) met with a <hi>brother</hi> in a great melancholy, he went a ſlow pace, his hat o<g ref="char:EOLhyphen"/>ver his eyes, &amp; his eyes fixed on the ground, his arms were locked one within the other, vvith all the po<g ref="char:EOLhyphen"/>ſtures of a male-content as poſſible could be, <hi>I</hi> noted his carriage a great while, at laſt being deſirous to know ſomething from him, ſtrooke him upon the ſhoulder with this ſalute, well overtaken brother.</p>
+            <p>That very name of <hi>Brother</hi> was ſuch an enlivning to this diſcontented man, that hee anſwered my ſalute with a welcome; vvell, we walked along together, in which time <hi>I</hi> was ſo bold as to enquire from him, what ſhould be the cauſe of his ſo ſad a melancholy, he anſwered me firſt with a ſigh, then after ſome po<g ref="char:EOLhyphen"/>ſtures
+<pb n="4" facs="tcp:42647:3"/>which told me he was much troubled in mind, he began as followeth.</p>
+            <p>Sir, you ſeeme by your habite to be a Scholler and Schollres can both keepe things ſecret and alſo give good Counſell to avoid evills which may hang over their heads which are in danger.</p>
+            <p>I am entangled in a religion which much troubleth my ſoule, you being a Scholler may therefore un<g ref="char:EOLhyphen"/>fold the truth of things unto me; Firſt we attribute a name to our ſelves, that we might be knowne from all other men, <hi>Adamites;</hi> and in that we hold all things which hee held and no more: Secondly; we goe all naked whenſoever the word is expounded, holding it unlawfull to call thoſe veſtments which we weare but figleaves, becauſe our ancient Parents <hi>Adam</hi> &amp; <hi>Eve,</hi> did cloath themſelves in no other when they fled from the preſence of God in the garden of <hi>Paradice; Alſo no man of what degree ſoever hee bee muſt live idlely from handy-worke,</hi> becauſe it is ſaid in the Curſe, <hi>In the ſweat of thy face, ſhalt thou eate thy bread, till thou returne unto the ground, Gen. the</hi> 3. <hi>at the</hi> 19. <hi>verſe.</hi> Now Sir, I deſire you, that you would tell me, whether yea, or nay, <hi>the Father of errors dwell in the hearts of theſe men.</hi> J anſwered him, that it was very ill done of them, to attribute a name unto them ſelves, ſcorning as it were the name of <hi>Chriſtians. Let them take heed, leſt they bring another Babels confuſi<g ref="char:EOLhyphen"/>on on their heads, Gen.</hi> 12. But in the ſecond point they ſhew themſelves at full to bee very ignorant, or unbeleeving men. <hi>Did not our Saviour goe in veſt<g ref="char:EOLhyphen"/>ments,
+<pb n="5" facs="tcp:42647:3"/>elſe the Souldiers could not have caſt lots for his garments,</hi> John 19. v. 23. <hi>Nay the Lord himſelfe cloa<g ref="char:EOLhyphen"/>thed Adam and Eve with Coats of skins,</hi> Gen. the 3. <hi>and the</hi> 21. verſe. The laſt alſo is as groſſe an abſurdi<g ref="char:EOLhyphen"/>tie as the firſt; for ſome are brought up as <hi>Schollers</hi> and cannot follow any handicraft at all, and I never read that our <hi>Saviour</hi> did any handicraft work at all, but ſaid J, <hi>if thou wilt have me where</hi> I <hi>may ſee the fa<g ref="char:EOLhyphen"/>ſhions of theſe men, I ſhall a great deale better reſolve thee; I will (ſaid he) but you muſt make as if you were converted by me, and take your Oath on the barke of a Tree to be ſecret; I thought with my ſelfe, that that Oath could not be very prejudicious to me, but went a<g ref="char:EOLhyphen"/>long with him, whether he ſhould lead me.</hi>
+            </p>
+            <p>We had not gone far (according as I could gueſſe) the value of halfe a mile, when wee came to a very faire houſe (more fit for a Lord, then ſuch fooles) where this fellow knocked, by and by came the Por<g ref="char:EOLhyphen"/>ter, vvho knowing of him let him in, and I was alſo admitted as his friend, ſoone after we were conducted into a very faire Gallery, at my firſt entrance I thought J had bin in <hi>Long-lane</hi> among the <hi>Brokers,</hi> for it was hanged on both ſides with cloathes: this bro<g ref="char:EOLhyphen"/>ther whiſpered me in the eare, and wiſht me to doe as he did: well, he walkes up to the upper end of the Gallerie, then had we two Chaires brought us, he ſate downe in one, and J in imitation ſeat my ſelfe in the other, he preſently begins to uncloath himſelfe, which I did alſo, when we were both naked there came an ancient man all naked al<g ref="char:EOLhyphen"/>ſo, with a long white ſticke in his hand,
+<pb n="6" facs="tcp:42647:4"/>and conducted us into a very faire Chamber, where were above <hi>nineſcore</hi> naked perſons men and women, one with another: this <hi>brother</hi> ſteps before me to the antienteſt of the company, telling him that it was my great deſire to become one of their ſociety, the old man called for the barke of the tree, ſpeaking to me as followeth.</p>
+            <p>Son, it ſeemeth by the relation of this our holy <hi>bro<g ref="char:EOLhyphen"/>ther,</hi> that thou art come to bee admitted into our ſo<g ref="char:EOLhyphen"/>ciety, we ſweare thee therefore upon this bark which our <hi>Father Adam</hi> brought with him from forth the garden of <hi>Paradice,</hi> that thou ſhalt keepe due houres at meetings, and alſo keepe it ſecret both from the eyes and eares of the World: after this was ſaid, hee willed me to bite a piece of the foreſaid barke, which me thought indeed was old enough, for infaith it was peſtilent tough.</p>
+            <p>After <hi>I</hi> had taken my oath to keepe due houres at meetings, and proteſting ſecrecie by biting the old antient bark of a Tree, <hi>I</hi> was ſeated by my brother which brought me in, then after the <hi>Clark</hi> had cryed ſilence, he that was to propheſie that day was brought led between two, and elevated up to the height of a joyn'd ſtoole, where without any ceremony at all, he began to bawle what came firſt into his mind. The firſt thing he propheſied there (as <hi>I</hi> remember) vvas the downefall of all Religions except theirs, with many moſt blaſphemous things, which J am both a<g ref="char:EOLhyphen"/>fraid and aſhamed to write.</p>
+            <p>Now it was an order among theſe naked ſooles, that if the Plannet of <hi>Venus</hi> raigned in their lower parts, making them ſwell for pride, or rather for Luſt, then
+<pb n="7" facs="tcp:42647:4"/>ſhould the <hi>Clarke</hi> with his long ſticke ſtrike down the preſumpteous fleſh.</p>
+            <p>This zealous brother which propheſied there, in the very midſt of his Diſcourſe was interrupted, and thus it hapned; A zealous ſiſter which ſate juſt op<g ref="char:EOLhyphen"/>poſite unto him, being ſomewhat weary of ſitting, roſe up, now this holy Brother being more lowly minded then was fitting for him, ſaw ſomething which lay mumpping the upper lip like an old Rab<g ref="char:EOLhyphen"/>bet, but ſure it was a young Cony, which made his fleſh to riſe in ſuch an unmeaſurable manner, that the old <hi>Clarke</hi> was forced to uſe both hands to allay his courage, which put the Propheſier unto ſuch paine, that the whole Houſe could not hold him, but hee would kill the Clark, at length I ſtept forth, and be<g ref="char:EOLhyphen"/>gan to perſwade him, which after ſome heat of words and ravings, hee began to be ſomewhat pacified; then thus I began to queſtion with him, what if you had kil'd him, ſaid I? He anſwered, he had not car'd, for he was aſſured of ſalvation by the ſecond <hi>Adams</hi> innocencie, which is Chriſt Ieſus our-Lord.</p>
+            <p>Another thing I tooke notice of, for after this hur<g ref="char:EOLhyphen"/>ly-burly was over betweene the <hi>Prophet</hi> &amp; the <hi>Clark</hi> there came a many Women into the Chamber, all naked, alſo the foremoſt bearing a naked Child in her armes, as it came from the Mothers wombe, this for<g ref="char:EOLhyphen"/>moſt woman went and kneeled at the feet of the pro<g ref="char:EOLhyphen"/>phet, then preſently thereupon he cryed <hi>Abell,</hi> after the name of the ſecond Sonne of our Father <hi>Adam. And this is the manner of their Chriſtning children.</hi>
+            </p>
+            <p>
+               <hi>Read and judge, whether I am in moſt fault, now I
+<pb n="8" facs="tcp:42647:5"/>have revealed it, or if J had kept it ſecret. They muſt ſurely looke for a great plague from God for this their unbeliefe, according to the Pſalmiſt.</hi>
+            </p>
+            <p>
+               <hi>If they breake my Statutes, and keepe not my Com<g ref="char:EOLhyphen"/>mandements; Then will J viſite their tranſgreſ<g ref="char:EOLhyphen"/>ſion with the Rod, and their iniquity with ſtripes. Pſal.</hi> 89.31, 32.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42647:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
